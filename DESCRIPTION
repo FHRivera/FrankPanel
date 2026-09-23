@@ -2,7 +2,7 @@ Package: FrankPanel
 Type: Package
 Title: Construccion Reproducible de Paneles de Datos a Partir de RICs
 Version: 0.1.0
-Authors@R: person("Frank", "T. Huancollo Rivera", role = c("aut", "cre"), email = "frank@example.com")
+Authors@R: person("Frank", "T. Huancollo Rivera", role = c("aut", "cre"), email = "fhuancollorivera@gmail.com")
 Description: Herramientas para transformar un data.frame de identificadores RIC
     en una estructura de panel por empresa y periodo. Permite representar los
     periodos como anio calendario, FY o ambos, y conectar un proveedor externo
