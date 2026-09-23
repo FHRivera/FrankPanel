@@ -23,7 +23,7 @@ usethis::use_github()
 
 ```r
 install.packages("remotes")
-remotes::install_github("TU_USUARIO_GITHUB/FrankPanel")
+remotes::install_github("FHRivera/FrankPanel")
 library(FrankPanel)
 ```
 
