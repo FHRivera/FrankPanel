@@ -11,7 +11,7 @@ Una vez que el repositorio este publicado:
 
 ```r
 install.packages("remotes")
-remotes::install_github("TU_USUARIO_GITHUB/FrankPanel")
+remotes::install_github("FHRivera/FrankPanel")
 
 library(FrankPanel)
 ```
