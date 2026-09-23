@@ -26,8 +26,3 @@ install.packages("remotes")
 remotes::install_github("FHRivera/FrankPanel")
 library(FrankPanel)
 ```
-
-## Antes de publicar
-
-Cambiar en DESCRIPTION el correo ficticio `frank@example.com` por el correo que
-quieras usar como mantenedor del paquete.
